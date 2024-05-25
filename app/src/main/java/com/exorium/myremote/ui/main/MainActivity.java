@@ -1,8 +1,10 @@
-package com.exorium.myremote;
+package com.exorium.myremote.ui.main;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.exorium.myremote.R;
 
 public class MainActivity extends AppCompatActivity {
 
