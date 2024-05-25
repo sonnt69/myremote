@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="neutral_01">#FFFFFF</color>
+    <color name="neutral_02">#F9F9F9</color>
+    <color name="neutral_03">#ACB8BC</color>
+    <color name="neutral_04">#6D7B81</color>
+    <color name="neutral_05">#364654</color>
+    <color name="neutral_06">#202F35</color>
+    <color name="neutral_07">#0F1C27</color>
+    <color name="primary_01">#FF7A00</color>
+    <color name="primary_02">#20C230</color>
+    <color name="secondary_01">#00B2FF</color>
+    <color name="secondary_02">#00DAC0</color>
+    <color name="secondary_03">#D74618</color>
+    <color name="secondary_04">#E9C60D</color>
+    <color name="secondary_05">#88FBA8</color>
+    <color name="secondary_06">#C7FFD6</color>
+    <color name="secondary_07">#EDFEF2</color>
+    <color name="secondary_08">#9FFFF4</color>
+    <color name="secondary_09">#7E2ABF</color>
+
 </resources>
